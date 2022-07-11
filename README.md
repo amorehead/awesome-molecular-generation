@@ -18,7 +18,7 @@ Survey
 * [ICML 2022] **Equivariant Diffusion for Molecule Generation in 3D**  [[Paper]](https://arxiv.org/abs/2203.17003)[[Code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
 <br><br>
 * [arXiv 2022] **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**  [[Paper]](https://arxiv.org/abs/2205.15019v1)
-* [arXiv 2022[ **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**  [[Paper]](https://arxiv.org/abs/2206.04119v1)
+* [arXiv 2022] **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**  [[Paper]](https://arxiv.org/abs/2206.04119v1)
 
 2021
 ----------
