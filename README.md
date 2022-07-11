@@ -19,6 +19,8 @@ Survey
 <br><br>
 * [arXiv 2022] **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**  [[Paper]](https://arxiv.org/abs/2205.15019v1)
 * [arXiv 2022] **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**  [[Paper]](https://arxiv.org/abs/2206.04119v1)
+<br><br>
+* [bioRxiv 2022] **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)
 
 2021
 ----------
