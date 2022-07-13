@@ -28,6 +28,7 @@ Survey
 
 2020
 ----------
+* [NeurIPS 2020] **Barking up the right tree: an approach to search over molecule synthesis DAGs**  [[Paper]](https://proceedings.neurips.cc/paper/2020/hash/4cc05b35c2f937c5bd9e7d41d3686fff-Abstract.html)[[Code]](https://github.com/john-bradshaw/synthesis-dags)
 * [NeurIPS 2020 (MLCB)] **ProGen: Language Modeling for Protein Generation** [[Paper]](https://arxiv.org/abs/2004.03497)[[Code]](https://github.com/salesforce/progen)
 
 2019
