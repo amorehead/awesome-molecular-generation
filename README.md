@@ -34,7 +34,8 @@ Survey
 2019
 ----------
 * [NeurIPS 2019] **Generative models for graph-based protein design** [[Paper]](https://proceedings.neurips.cc/paper/2019/hash/f3a4ff4839c56a5f460c88cce3666a2b-Abstract.html)[[Code]](https://github.com/jingraham/neurips19-graph-protein-design?utm_source=catalyzex.com)
-
+<br><br>
+* [Journal of Chemical Information and Modeling 2019] **GuacaMol: Benchmarking Models for de Novo Molecular Design**  [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.8b00839)[[Code]](https://benevolent.ai/guacamol)
 2017
 ----------
 * [ACS Cental Science 2017] **Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks** [[Paper]](https://arxiv.org/abs/1701.01329)
