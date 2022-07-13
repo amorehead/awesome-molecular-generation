@@ -25,6 +25,7 @@ Survey
 * [arXiv 2022] **ProGen2: Exploring the Boundaries of Protein Language Models**. [[Paper]](https://arxiv.org/abs/2206.13517)[[Code]](https://github.com/salesforce/progen)
 * [ICLR 2022] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**. [[Paper]](https://arxiv.org/abs/2111.07786)[[Code]](https://github.com/octavian-ganea/equidock_public)
 * [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation**. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
+* [arXiv 2022] **EGR: Equivariant Graph Refinement and Assessment of 3D Protein Complex Structures**[[Paper]](https://arxiv.org/abs/2205.10390)[[Code]](https://github.com/BioinfoMachineLearning/DeepRefine)
 
 2021
 ----------
