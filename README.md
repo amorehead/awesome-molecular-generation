@@ -24,6 +24,7 @@ Survey
 * [bioRxiv 2022] **Learning inverse folding from millions of predicted structures**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1.abstract)[[Code]](https://github.com/facebookresearch/esm)
 * [arXiv 2022] **ProGen2: Exploring the Boundaries of Protein Language Models**. [[Paper]](https://arxiv.org/abs/2206.13517)[[Code]](https://github.com/salesforce/progen)
 * [ICLR 2022] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**. [[Paper]](https://arxiv.org/abs/2111.07786)[[Code]](https://github.com/octavian-ganea/equidock_public)
+* [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation**. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
 
 2021
 ----------
