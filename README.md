@@ -13,20 +13,21 @@ Survey
 ----------
 * [ICLR 2022] **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design**  [[Paper]](https://arxiv.org/abs/2206.02059)[[Code]](https://github.com/wengong-jin/RefineGNN)
 * [ICLR 2022] **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**  [[Paper]](https://arxiv.org/abs/2203.02923)[[Code]](https://github.com/minkaixu/geodiff)
+* [ICLR 2022] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**. [[Paper]](https://arxiv.org/abs/2111.07786)[[Code]](https://github.com/octavian-ganea/equidock_public)
 <br><br>
 * [ICML 2022] **Generating 3D Molecules for Target Protein Binding**  [[Paper]](https://arxiv.org/abs/2206.02059)[[Code]](https://github.com/divelab/GraphBP)
 * [ICML 2022] **Equivariant Diffusion for Molecule Generation in 3D**  [[Paper]](https://arxiv.org/abs/2203.17003)[[Code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
 <br><br>
 * [arXiv 2022] **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**  [[Paper]](https://arxiv.org/abs/2205.15019v1)
 * [arXiv 2022] **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**  [[Paper]](https://arxiv.org/abs/2206.04119v1)
+* [arXiv 2022] **EGR: Equivariant Graph Refinement and Assessment of 3D Protein Complex Structures**[[Paper]](https://arxiv.org/abs/2205.10390)[[Code]](https://github.com/BioinfoMachineLearning/DeepRefine)
+* [arXiv 2022] **AntBO: Towards Real-World Automated Antibody Design with Combinatorial Bayesian Optimisation** [[Paper]](https://arxiv.org/abs/2201.12570)
+* [arXiv 2022] **ProGen2: Exploring the Boundaries of Protein Language Models**. [[Paper]](https://arxiv.org/abs/2206.13517)[[Code]](https://github.com/salesforce/progen)
 <br><br>
 * [bioRxiv 2022] **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)
 * [bioRxiv 2022] **Learning inverse folding from millions of predicted structures**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1.abstract)[[Code]](https://github.com/facebookresearch/esm)
-* [arXiv 2022] **ProGen2: Exploring the Boundaries of Protein Language Models**. [[Paper]](https://arxiv.org/abs/2206.13517)[[Code]](https://github.com/salesforce/progen)
-* [ICLR 2022] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**. [[Paper]](https://arxiv.org/abs/2111.07786)[[Code]](https://github.com/octavian-ganea/equidock_public)
+<br><br>
 * [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation**. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
-* [arXiv 2022] **EGR: Equivariant Graph Refinement and Assessment of 3D Protein Complex Structures**[[Paper]](https://arxiv.org/abs/2205.10390)[[Code]](https://github.com/BioinfoMachineLearning/DeepRefine)
-* [arXiv 2022] **AntBO: Towards Real-World Automated Antibody Design with Combinatorial Bayesian Optimisation** [[Paper]](https://arxiv.org/abs/2201.12570)
 
 2021
 ----------
