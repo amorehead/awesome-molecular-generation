@@ -31,7 +31,6 @@ Survey
 <br><br>
 * [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation**. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
 
-
 2021
 ----------
 * [NeurIPS 2021] **A 3D Generative Model for Structure-Based Drug Design** [[Paper]](https://proceedings.neurips.cc/paper/2021/hash/314450613369e0ee72d0da7f6fee773c-Abstract.html)[[Code]](https://github.com/luost26/3d-generative-sbdd)
