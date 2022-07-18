@@ -17,6 +17,8 @@ Survey
 <br><br>
 * [ICML 2022] **Generating 3D Molecules for Target Protein Binding**  [[Paper]](https://arxiv.org/abs/2206.02059)[[Code]](https://github.com/divelab/GraphBP)
 * [ICML 2022] **Equivariant Diffusion for Molecule Generation in 3D**  [[Paper]](https://arxiv.org/abs/2203.17003)[[Code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
+* [ICML 2022] **LIMO: Latent Inceptionism for Targeted Molecule Generation**  [[Paper]](https://arxiv.org/abs/2206.09010)[[Code]](https://github.com/rose-stl-lab/limo)
+* [ICML 2022] **Antibody-Antigen Docking and Design via Hierarchical Structure Refinement** [[Paper]](https://proceedings.mlr.press/v162/jin22a.html)[[Code]](https://github.com/wengong-jin/abdockgen)
 <br><br>
 * [arXiv 2022] **Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**  [[Paper]](https://arxiv.org/abs/2205.15019v1)
 * [arXiv 2022] **Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**  [[Paper]](https://arxiv.org/abs/2206.04119v1)
