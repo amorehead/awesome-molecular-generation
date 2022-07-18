@@ -29,7 +29,8 @@ Survey
 <br><br>
 * [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation**. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
 <br><br>
-* [arXiv 2022] **LIMO: Latent Inceptionism for Targeted Molecule Generation**. [[Paper]](https://arxiv.org/abs/2206.09010)[[Code]](https://github.com/rose-stl-lab/limo)
+* [ICML 2022] **LIMO: Latent Inceptionism for Targeted Molecule Generation**. [[Paper]](https://arxiv.org/abs/2206.09010)[[Code]](https://github.com/rose-stl-lab/limo)
+* [ICML 2022] **Generating 3D Molecules for Target Protein Binding**. [[Paper]](https://arxiv.org/abs/2204.09410)[[Code]](https://github.com/divelab/GraphBP)
 
 
 2021
