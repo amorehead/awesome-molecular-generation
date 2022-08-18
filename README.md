@@ -28,6 +28,7 @@ Survey
 <br><br>
 * [bioRxiv 2022] **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)
 * [bioRxiv 2022] **Learning inverse folding from millions of predicted structures**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1.abstract)[[Code]](https://github.com/facebookresearch/esm)
+* [bioRxiv 2022] **Antibody optimization enabled by artificial intelligence predictions of binding affinity and naturalness**. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.16.504181v1.full)
 <br><br>
 * [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation**. [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
 
