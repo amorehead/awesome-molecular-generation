@@ -13,7 +13,8 @@ Survey
 ----------
 * [ICLR 2022] **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design**  [[Paper]](https://arxiv.org/abs/2206.02059)[[Code]](https://github.com/wengong-jin/RefineGNN)
 * [ICLR 2022] **GeoDiff: a Geometric Diffusion Model for Molecular Conformation Generation**  [[Paper]](https://arxiv.org/abs/2203.02923)[[Code]](https://github.com/minkaixu/geodiff)
-* [ICLR 2022] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking**. [[Paper]](https://arxiv.org/abs/2111.07786)[[Code]](https://github.com/octavian-ganea/equidock_public)
+* [ICLR 2022] **Energy-Inspired Molecular Conformation Optimization**  [[Paper]](https://openreview.net/forum?id=7QfLW-XZTl)[[Code]](https://github.com/guanjq/confopt_official)
+* [ICLR 2022] **Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking** [[Paper]](https://arxiv.org/abs/2111.07786)[[Code]](https://github.com/octavian-ganea/equidock_public)
 <br><br>
 * [ICML 2022] **Generating 3D Molecules for Target Protein Binding**  [[Paper]](https://arxiv.org/abs/2206.02059)[[Code]](https://github.com/divelab/GraphBP)
 * [ICML 2022] **Equivariant Diffusion for Molecule Generation in 3D**  [[Paper]](https://arxiv.org/abs/2203.17003)[[Code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
