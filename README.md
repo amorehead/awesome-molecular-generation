@@ -31,6 +31,7 @@ Survey
 * [arXiv 2022] **ProGen2: Exploring the Boundaries of Protein Language Models** [[Paper]](https://arxiv.org/abs/2206.13517)[[Code]](https://github.com/salesforce/progen)
 * [arXiv 2022] **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking** [[Paper]](https://arxiv.org/abs/2210.01776)[[Code]](https://github.com/gcorso/diffdock)
 * [arXiv 2022] **Dynamic-Backbone Protein-Ligand Structure Prediction with Multiscale Generative Diffusion Models** [[Paper]](https://arxiv.org/abs/2209.15171)
+* [arXiv 2022] **Equivariant 3D-Conditional Diffusion Models for Molecular Linker Design** [[Paper]](https://arxiv.org/abs/2210.05274)[[Code]](https://github.com/igashov/difflinker)
 <br><br>
 * [bioRxiv 2022] **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models** [[Paper]](https://www.biorxiv.org/content/10.1101/2022.07.10.499510v1)
 * [bioRxiv 2022] **Learning inverse folding from millions of predicted structures** [[Paper]](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1.abstract)[[Code]](https://github.com/facebookresearch/esm)
