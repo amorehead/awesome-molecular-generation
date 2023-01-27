@@ -9,6 +9,10 @@ Survey
 ----------
 * [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
 
+2023
+----------
+* [arXiv 2023] **Molecular Language Model as Multi-task Generator**  [[Paper]](https://arxiv.org/abs/2301.11259)[[Code]](https://github.com/zjunlp/MolGen)
+
 2022
 ----------
 * [ICLR 2022] **Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design**  [[Paper]](https://arxiv.org/abs/2206.02059)[[Code]](https://github.com/wengong-jin/RefineGNN)
