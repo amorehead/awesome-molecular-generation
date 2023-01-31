@@ -11,7 +11,12 @@ Survey
 
 2023
 ----------
+* [ICLR 2023] **Conditional Antibody Design as 3D Equivariant Graph Translation**  [[Paper]](https://openreview.net/pdf?id=LFHFQbjxIiP)[[Code]](https://github.com/thunlp-mt/mean)
+* [ICLR 2023] **Protein Sequence and Structure Co-Design with Equivariant Translation**  [[Paper]](https://openreview.net/pdf?id=pRCMXcfdihq)
+<br><br>
 * [arXiv 2023] **Molecular Language Model as Multi-task Generator**  [[Paper]](https://arxiv.org/abs/2301.11259)[[Code]](https://github.com/zjunlp/MolGen)
+<br><br>
+* [bioRxiv 2023] **Incorporating Pre-training Paradigm for Antibody Sequence-Structure Co-design**  [[Paper]](https://www.biorxiv.org/content/10.1101/2022.11.14.516404v2.abstract)
 
 2022
 ----------
@@ -25,6 +30,8 @@ Survey
 * [ICML 2022] **LIMO: Latent Inceptionism for Targeted Molecule Generation**  [[Paper]](https://arxiv.org/abs/2206.09010)[[Code]](https://github.com/rose-stl-lab/limo)
 * [ICML 2022] **Antibody-Antigen Docking and Design via Hierarchical Structure Refinement** [[Paper]](https://proceedings.mlr.press/v162/jin22a.html)[[Code]](https://github.com/wengong-jin/abdockgen)
 * [ICML 2022] **EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction** [[Paper]](https://arxiv.org/abs/2202.05146)[[Code]](https://github.com/HannesStark/EquiBind)
+<br><br>
+* [NeurIPS 2022] **Antigen-specific antibody design and optimization with diffusion-based generative models** [[Paper]](https://openreview.net/forum?id=jSorGn2Tjg)[[Code]](https://github.com/luost26/diffab)
 <br><br>
 * [PLOS 2022] **Ig-VAE: Generative modeling of protein structure by direct 3D coordinate generation** [[Paper]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010271)[[Code]](https://github.com/ProteinDesignLab/IgVAE)
 <br><br>
