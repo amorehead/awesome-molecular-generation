@@ -15,6 +15,8 @@ Survey
 * [ICLR 2023] **Protein Sequence and Structure Co-Design with Equivariant Translation**  [[Paper]](https://openreview.net/pdf?id=pRCMXcfdihq)
 <br><br>
 * [arXiv 2023] **Molecular Language Model as Multi-task Generator**  [[Paper]](https://arxiv.org/abs/2301.11259)[[Code]](https://github.com/zjunlp/MolGen)
+* [arXiv 2023] **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**  [[Paper]](https://arxiv.org/abs/2301.12485)[[Code]](https://github.com/aqlaboratory/genie)
+* [arXiv 2023] **SE(3) diffusion model with application to protein backbone generation**  [[Paper]](https://arxiv.org/abs/2302.02277)[[Code]](https://github.com/jasonkyuyim/se3_diffusion)
 <br><br>
 * [bioRxiv 2023] **Incorporating Pre-training Paradigm for Antibody Sequence-Structure Co-design**  [[Paper]](https://www.biorxiv.org/content/10.1101/2022.11.14.516404v2.abstract)
 
