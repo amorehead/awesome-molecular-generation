@@ -17,6 +17,7 @@ Survey
 * [ICLR MLDD 2023] **EigenFold: Generative Protein Structure Prediction with Diffusion Models**  [[Paper]](https://arxiv.org/abs/2304.02198)[[Code]](https://github.com/bjing2016/eigenfold)
 * [ICLR MLDD 2023] **DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models**  [[Paper]](https://arxiv.org/abs/2304.03889)[[Code]](https://github.com/ketatam/diffdock-pp)
 <br><br>
+* [arXiv 2023] **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** [[Paper]](https://arxiv.org/abs/2305.12347)[[Code]](https://github.com/GRAPH-0/JODO)
 * [arXiv 2023] **Molecular Language Model as Multi-task Generator**  [[Paper]](https://arxiv.org/abs/2301.11259)[[Code]](https://github.com/zjunlp/MolGen)
 * [arXiv 2023] **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**  [[Paper]](https://arxiv.org/abs/2301.12485)[[Code]](https://github.com/aqlaboratory/genie)
 * [arXiv 2023] **SE(3) diffusion model with application to protein backbone generation**  [[Paper]](https://arxiv.org/abs/2302.02277)[[Code]](https://github.com/jasonkyuyim/se3_diffusion)
