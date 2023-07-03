@@ -23,6 +23,7 @@ Survey
 * [arXiv 2023] **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** [[Paper]](https://arxiv.org/abs/2305.12347)[[Code]](https://github.com/GRAPH-0/JODO)
 * [arXiv 2023] **Domain-Agnostic Molecular Generation with Self-feedback**  [[Paper]](https://arxiv.org/abs/2301.11259)[[Code]](https://github.com/zjunlp/MolGen)
 * [arXiv 2023] **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models**  [[Paper]](https://arxiv.org/abs/2306.08018)[[Code]](https://github.com/zjunlp/Mol-Instructions)
+* [arXiv 2023] **Graph Denoising Diffusion for Inverse Protein Folding**  [[Paper]](https://arxiv.org/abs/2306.16819)
 <br><br>
 * [bioRxiv 2023] **Incorporating Pre-training Paradigm for Antibody Sequence-Structure Co-design**  [[Paper]](https://www.biorxiv.org/content/10.1101/2022.11.14.516404v2.abstract)
 
