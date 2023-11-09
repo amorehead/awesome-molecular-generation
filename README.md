@@ -11,6 +11,7 @@ Survey
 
 2023
 ----------
+* [ACS 2023] **SILVR: Guided Diffusion for Molecule Generation** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00667#)[[Code]](https://github.com/nichrun/e3_diffusion_for_molecules)
 * [ICLR 2023] **Conditional Antibody Design as 3D Equivariant Graph Translation**  [[Paper]](https://openreview.net/pdf?id=LFHFQbjxIiP)[[Code]](https://github.com/thunlp-mt/mean)
 * [ICLR 2023] **Protein Sequence and Structure Co-Design with Equivariant Translation**  [[Paper]](https://openreview.net/pdf?id=pRCMXcfdihq)
 * [ICLR MLDD 2023] **Geometry-Complete Diffusion for 3D Molecule Generation**  [[Paper]](https://arxiv.org/abs/2302.04313)[[Code]](https://github.com/BioinfoMachineLearning/bio-diffusion)
