@@ -11,7 +11,7 @@ Survey
 
 2023
 ----------
-* [ACS 2023] **SILVR: Guided Diffusion for Molecule Generation** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00667#)[[Code]](https://github.com/nichrun/e3_diffusion_for_molecules)
+* [ACS 2023] **SILVR: Guided Diffusion for Molecule Generation**  [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00667#)[[Code]](https://github.com/nichrun/e3_diffusion_for_molecules)
 * [ICLR 2023] **Conditional Antibody Design as 3D Equivariant Graph Translation**  [[Paper]](https://openreview.net/pdf?id=LFHFQbjxIiP)[[Code]](https://github.com/thunlp-mt/mean)
 * [ICLR 2023] **Protein Sequence and Structure Co-Design with Equivariant Translation**  [[Paper]](https://openreview.net/pdf?id=pRCMXcfdihq)
 * [ICLR MLDD 2023] **Geometry-Complete Diffusion for 3D Molecule Generation**  [[Paper]](https://arxiv.org/abs/2302.04313)[[Code]](https://github.com/BioinfoMachineLearning/bio-diffusion)
@@ -26,6 +26,7 @@ Survey
 * [arXiv 2023] **Domain-Agnostic Molecular Generation with Self-feedback**  [[Paper]](https://arxiv.org/abs/2301.11259)[[Code]](https://github.com/zjunlp/MolGen)
 * [arXiv 2023] **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models**  [[Paper]](https://arxiv.org/abs/2306.08018)[[Code]](https://github.com/zjunlp/Mol-Instructions)
 * [arXiv 2023] **Graph Denoising Diffusion for Inverse Protein Folding**  [[Paper]](https://arxiv.org/abs/2306.16819)
+* [arXiv 2023] **Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**  [[Paper]](https://arxiv.org/abs/2310.05764)[[Code]](https://github.com/HannesStark/FlowSite)
 <br><br>
 * [bioRxiv 2023] **Incorporating Pre-training Paradigm for Antibody Sequence-Structure Co-design**  [[Paper]](https://www.biorxiv.org/content/10.1101/2022.11.14.516404v2.abstract)
 
