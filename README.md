@@ -21,14 +21,18 @@ Survey
 * [ICML 2023] **Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds**  [[Paper]](https://arxiv.org/abs/2301.12485)[[Code]](https://github.com/aqlaboratory/genie)
 * [ICML WCB 2023] **Multi-State RNA Design with Geometric Multi-Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2305.14749)[[Code]](https://github.com/chaitjo/geometric-rna-design)
 <br><br>
+* [NeurIPS 2023] **Graph Denoising Diffusion for Inverse Protein Folding**  [[Paper]](https://arxiv.org/abs/2306.16819)[[Code]](https://github.com/ykiiiiii/GraDe_IF)
+* [NeurIPS MLSB 2023] **Towards Joint Sequence-Structure Generation of Nucleic Acid and Protein Complexes with SE(3)-Discrete Diffusion** [[Paper]](https://www.mlsb.io/papers_2023/Towards_Joint_Sequence-Structure_Generation_of_Nucleic_Acid_and_Protein_Complexes_with_SE3-Discrete_Diffusion.pdf)[[Code]](https://github.com/Profluent-Internships/MMDiff)
+* [NeurIPS MLSB 2023] **Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**  [[Paper]](https://arxiv.org/abs/2310.05764)[[Code]](https://github.com/HannesStark/FlowSite)
+* [NeurIPS MLSB 2023] **AlphaFold Meets Flow Matching for Generating Protein Ensembles**  [[Paper]](https://www.mlsb.io/papers_2023/AlphaFold_Meets_Flow_Matching_for_Generating_Protein_Ensembles.pdf)
+* [NeurIPS MLSB 2023] **Fast protein backbone generation with SE(3) flow matching**  [[Paper]](https://arxiv.org/abs/2310.05297)[[Code]](https://github.com/microsoft/frame-flow)
+<br><br>
 * [ACS 2023] **SILVR: Guided Diffusion for Molecule Generation**  [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.3c00667#)[[Code]](https://github.com/nichrun/e3_diffusion_for_molecules)
 <br><br>
 * [arXiv 2023] **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** [[Paper]](https://arxiv.org/abs/2305.12347)[[Code]](https://github.com/GRAPH-0/JODO)
 * [arXiv 2023] **Domain-Agnostic Molecular Generation with Self-feedback**  [[Paper]](https://arxiv.org/abs/2301.11259)[[Code]](https://github.com/zjunlp/MolGen)
 * [arXiv 2023] **Mol-Instructions: A Large-Scale Biomolecular Instruction Dataset for Large Language Models**  [[Paper]](https://arxiv.org/abs/2306.08018)[[Code]](https://github.com/zjunlp/Mol-Instructions)
-* [arXiv 2023] **Graph Denoising Diffusion for Inverse Protein Folding**  [[Paper]](https://arxiv.org/abs/2306.16819)
-* [arXiv 2023] **Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**  [[Paper]](https://arxiv.org/abs/2310.05764)[[Code]](https://github.com/HannesStark/FlowSite)
-<br><br>
+* [arXiv 2023] **SE(3)-Stochastic Flow Matching for Protein Backbone Generation**  [[Paper]](https://arxiv.org/abs/2310.02391)[[Code]](https://github.com/DreamFold/FoldFlow)
 * [bioRxiv 2023] **Incorporating Pre-training Paradigm for Antibody Sequence-Structure Co-design**  [[Paper]](https://www.biorxiv.org/content/10.1101/2022.11.14.516404v2.abstract)
 
 2022
