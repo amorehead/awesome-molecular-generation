@@ -22,7 +22,7 @@ Survey
 * [ICML WCB 2023] **Multi-State RNA Design with Geometric Multi-Graph Neural Networks**  [[Paper]](https://arxiv.org/abs/2305.14749)[[Code]](https://github.com/chaitjo/geometric-rna-design)
 <br><br>
 * [NeurIPS 2023] **Graph Denoising Diffusion for Inverse Protein Folding**  [[Paper]](https://arxiv.org/abs/2306.16819)[[Code]](https://github.com/ykiiiiii/GraDe_IF)
-* [NeurIPS MLSB 2023] **Towards Joint Sequence-Structure Generation of Nucleic Acid and Protein Complexes with SE(3)-Discrete Diffusion** [[Paper]](https://www.mlsb.io/papers_2023/Towards_Joint_Sequence-Structure_Generation_of_Nucleic_Acid_and_Protein_Complexes_with_SE3-Discrete_Diffusion.pdf)[[Code]](https://github.com/Profluent-Internships/MMDiff)
+* [NeurIPS MLSB 2023] **Towards Joint Sequence-Structure Generation of Nucleic Acid and Protein Complexes with SE(3)-Discrete Diffusion** [[Paper]](https://arxiv.org/abs/2401.06151)[[Code]](https://github.com/Profluent-Internships/MMDiff)
 * [NeurIPS MLSB 2023] **Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design**  [[Paper]](https://arxiv.org/abs/2310.05764)[[Code]](https://github.com/HannesStark/FlowSite)
 * [NeurIPS MLSB 2023] **AlphaFold Meets Flow Matching for Generating Protein Ensembles**  [[Paper]](https://www.mlsb.io/papers_2023/AlphaFold_Meets_Flow_Matching_for_Generating_Protein_Ensembles.pdf)
 * [NeurIPS MLSB 2023] **Fast protein backbone generation with SE(3) flow matching**  [[Paper]](https://arxiv.org/abs/2310.05297)[[Code]](https://github.com/microsoft/frame-flow)
