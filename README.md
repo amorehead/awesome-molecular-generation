@@ -9,6 +9,10 @@ Survey
 ----------
 * [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
 
+2024
+----------
+* [Science 2024] **Generalized biomolecular modeling and design with RoseTTAFold All-Atom**  [[Paper]](https://www.science.org/doi/10.1126/science.adl2528)[[Code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
+
 2023
 ----------
 * [ICLR 2023] **Conditional Antibody Design as 3D Equivariant Graph Translation**  [[Paper]](https://openreview.net/pdf?id=LFHFQbjxIiP)[[Code]](https://github.com/thunlp-mt/mean)
