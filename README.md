@@ -17,7 +17,7 @@ Survey
 ----------
 * [ICLR 2023] **Conditional Antibody Design as 3D Equivariant Graph Translation**  [[Paper]](https://openreview.net/pdf?id=LFHFQbjxIiP)[[Code]](https://github.com/thunlp-mt/mean)
 * [ICLR 2023] **Protein Sequence and Structure Co-Design with Equivariant Translation**  [[Paper]](https://openreview.net/pdf?id=pRCMXcfdihq)
-* [ICLR MLDD 2023] **Geometry-Complete Diffusion for 3D Molecule Generation**  [[Paper]](https://arxiv.org/abs/2302.04313)[[Code]](https://github.com/BioinfoMachineLearning/bio-diffusion)
+* [ICLR MLDD 2023 & Nature CommsChem] **Geometry-Complete Diffusion for 3D Molecule Generation and Optimization**  [[Paper]](https://www.nature.com/articles/s42004-024-01233-z)[[Code]](https://github.com/BioinfoMachineLearning/bio-diffusion)
 * [ICLR MLDD 2023] **EigenFold: Generative Protein Structure Prediction with Diffusion Models**  [[Paper]](https://arxiv.org/abs/2304.02198)[[Code]](https://github.com/bjing2016/eigenfold)
 * [ICLR MLDD 2023] **DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models**  [[Paper]](https://arxiv.org/abs/2304.03889)[[Code]](https://github.com/ketatam/diffdock-pp)
 <br><br>
