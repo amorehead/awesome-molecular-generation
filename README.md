@@ -12,7 +12,8 @@ Survey
 2024
 ----------
 * [Science 2024] **Generalized biomolecular modeling and design with RoseTTAFold All-Atom**  [[Paper]](https://www.science.org/doi/10.1126/science.adl2528)[[Code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
-* [Arxiv 2024] **Using GNN property predictors as molecule generators** [[Paper]](https://arxiv.org/abs/2406.03278)[[Code]](https://github.com/ftherrien/inv-design)
+<br><br>
+* [arXiv 2024] **Using GNN property predictors as molecule generators** [[Paper]](https://arxiv.org/abs/2406.03278)[[Code]](https://github.com/ftherrien/inv-design)
 
 2023
 ----------
