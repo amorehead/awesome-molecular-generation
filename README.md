@@ -5,6 +5,15 @@ Awesome papers related to generative molecular modeling and design.
 
 **Please feel free to create a pull request if you would like to add other awesome papers.**
 
+[![Star History Chart](https://api.star-history.com/svg?repos=amorehead/awesome-molecular-generation&type=Date)](https://star-history.com/#amorehead/awesome-molecular-generation&Date)
+# Contributors
+
+<!-- readme: collaborators,contributors -end -->
+
+<a href="https://github.com/amorehead/awesome-molecular-generation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=amorehead/awesome-molecular-generation" />
+</a>
+
 Survey
 ----------
 * [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
