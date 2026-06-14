@@ -18,6 +18,10 @@ Survey
 ----------
 * [Elsevier 2022] **Deep learning approaches for de novo drug design: An overview**  [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X21001433?via%3Dihub)
 
+2025
+----------
+* [arXiv 2025] **Matcha: Multi-Stage Riemannian Flow Matching for Accurate and Physically Valid Molecular Docking** [[Paper]](https://arxiv.org/abs/2510.14586)[[Code]](https://github.com/LigandPro/Matcha)
+
 2024
 ----------
 * [Science 2024] **Generalized biomolecular modeling and design with RoseTTAFold All-Atom**  [[Paper]](https://www.science.org/doi/10.1126/science.adl2528)[[Code]](https://github.com/baker-laboratory/RoseTTAFold-All-Atom)
