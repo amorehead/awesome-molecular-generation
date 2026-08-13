@@ -5,7 +5,7 @@ Awesome papers related to generative molecular modeling and design.
 
 **Please feel free to create a pull request if you would like to add other awesome papers.**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=amorehead/awesome-molecular-generation&type=Date)](https://star-history.com/#amorehead/awesome-molecular-generation&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=amorehead/awesome-molecular-generation&type=Date)](https://star-history.dera.page/#amorehead/awesome-molecular-generation&Date)
 # Contributors
 
 <!-- readme: collaborators,contributors -end -->
